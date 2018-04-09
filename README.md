@@ -19,3 +19,6 @@ The Hotline should know at any given time who is currently connected to chat. Th
 Write another application (server side) that will be the message center.
 Each chat user must connect to and communicate with the server.
 That is, we will send our messages to the server, which will distribute them to all other participants, and we will receive back the messages that other participants have sent to us.
+
+### Feedback
+![alt text](https://github.com/Dvir570/Chat-Application---John-Bryce-Training/blob/master/Feedback%20on%20the%20project.jpeg)
