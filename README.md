@@ -3,7 +3,6 @@
 Chat application between registered users using OOP development &amp; .NET framework infrastructure in C#.
 This Chat project is assignment from Programming the .NET Framework 4.0/4.5 with C# 5.0 course in John Bryce Training.
 
-You can read about this course here: http://johnbryce.com/syllbus/Develope/70240.pdf
 
 ### How will the app work?
 The system will have an application that will be installed by a user who wants to chat with other users on the network.
